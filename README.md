@@ -18,5 +18,4 @@ Credit amount (numeric, in DM)
 Duration (numeric, in month)
 Purpose (text: car, furniture/equipment, radio/TV, domestic appliances, repairs, education, business, vacation/others)
 
-## Checkout the report here 
-https://datapane.com/u/shoumik/reports/sample-machine-learning-tracking-and-monitoring-system/
+
